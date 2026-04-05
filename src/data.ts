@@ -60,19 +60,41 @@ export const profiles: Profile[] = [
   },
   {
     id: 'u03',
-    name: 'Unknown',
-    age: '3',
-    location: 'Unknown',
-    traits: 'Unknown',
-    detailText: `Unknown`,
-    mainImage: 'https://i.postimg.cc/Hsytbfzf/unw.jpg',
+    name: 'Logan',
+    age: '26',
+    location: 'New York',
+    traits: 'Brat',
+    detailText: `[ 이름 ]
+로건 내쉬 (Logan Nash)
+
+[ 나이와 거주지 ]
+26세, 브루클린
+
+[ 기본 정보 ]
+• 직업: 비밀
+• 신장: 188cm
+• 체형: 근육질
+• 성향: Dom
+• 관심사: X질ㅋㅋ
+
+[ 소개 ]
+딱 한 달만 먹여주고 재워줄 여자 구함
+성향도 잘 맞으면 좋음
+밤마다 오빠가 개같이 X먹어줌
+
+[ 선호 상대 ]
+• 고분고분한 거, X탱이 큰 여자ㅋㅋ
+
+[ 비선호 상대 ]
+• 남자 새끼, 싸가지, 유색인종`,
+    mainImage: 'https://i.postimg.cc/wTyb5xQK/11.jpg',
     gallery: [
-      'https://i.postimg.cc/Hsytbfzf/unw.jpg',
-      'https://i.postimg.cc/Hsytbfzf/unw.jpg',
-      'https://i.postimg.cc/Hsytbfzf/unw.jpg',
-      'https://i.postimg.cc/Hsytbfzf/unw.jpg'
+      'https://i.postimg.cc/wTyb5xQK/11.jpg',
+      'https://i.postimg.cc/yd8LD7Ng/12.jpg',
+      'https://i.postimg.cc/KzWD4LV0/13.jpg',
+      'https://i.postimg.cc/tCW8QCZw/15.jpg'
     ],
-    contactLink: '■언노운3번_콘택트링크■'
+    contactLink: 'https://share.crack.wrtn.ai/07qv5r'
   },
   {
     id: 'u04',
