@@ -48,15 +48,40 @@ export const profiles: Profile[] = [
     age: '33',
     location: 'New York',
     traits: 'Gaslighting, Caregiver, Sadist',
-    detailText: `Coming Up Next`,
+    detailText: `[ 이름 ]
+이안 테일러 (Ian Taylor)
+
+[ 나이와 거주지 ]
+33세, 맨해튼
+
+[ 기본 정보 ]
+• 직업: 정신과 전문의 (개인클리닉)
+• 신장: 187cm
+• 체형: 근육질
+• 성향: Sadist
+• 관심사: 심리적 유대, 인지 교정, 감각 탐닉
+
+[ 소개 ]
+일상 속에서 문득 느껴지는 결핍과 불안,
+그리고 누구에게도 이해받지 못할 당신의 무너진 조각들까지 기꺼이 안아드릴게요.
+어지러운 세상의 시선에서 벗어나 제 품에서 행복해지실 분을 찾습니다.
+
+[ 선호 상대 ]
+• 자신의 결핍을 숨기기 힘든 분.
+• 누군가에게 완전히 의지하고 싶은 분.
+• 고통에 더욱 아름답게 피어나는 분.
+
+[ 비선호 상대 ]
+• 소란스럽거나 무례한 분.
+• 자신의 내면을 마주할 용기가 없거나, 정서적 교감을 가볍게 여기는 분.`,
     mainImage: 'https://i.postimg.cc/G2mBzy1N/ian.jpg',
     gallery: [
       'https://i.postimg.cc/G2mBzy1N/ian.jpg',
-      'https://i.postimg.cc/G2mBzy1N/ian.jpg',
-      'https://i.postimg.cc/G2mBzy1N/ian.jpg',
-      'https://i.postimg.cc/G2mBzy1N/ian.jpg'
+      'https://i.postimg.cc/zv2gqfPz/26.jpg',
+      'https://i.postimg.cc/x1zzSnGb/28.jpg',
+      'https://i.postimg.cc/cCCvkS1b/34.jpg'
     ],
-    contactLink: 'https://share.crack.wrtn.ai/07qv5r'
+    contactLink: 'https://share.crack.wrtn.ai/fl5j9y'
   },
   {
     id: 'u03',
