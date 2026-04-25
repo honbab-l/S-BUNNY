@@ -123,19 +123,40 @@ export const profiles: Profile[] = [
   },
   {
     id: 'u04',
-    name: 'Unknown',
-    age: '4',
-    location: 'Unknown',
-    traits: 'Unknown',
-    detailText: `Unknown`,
-    mainImage: 'https://i.postimg.cc/Hsytbfzf/unw.jpg',
+    name: 'Dexters',
+    age: '24',
+    location: 'New York',
+    traits: 'Hunter, Degrader',
+    detailText: `[ 이름 ]
+웨인 & 체이스 (Wayne & Chase)
+
+[ 나이와 거주지 ]
+24세, 맨해튼
+
+[ 기본 정보 ]
+• 직업: 수영선수
+• 신장: 190cm
+• 체형: 존나 근육질
+• 성향: Hunter, Degrader
+• 관심사: 강압플, 수치플, 야외플
+
+[ 소개 ]
+지루한 건 딱 질색이라 재밌는 거 좀 찾으러 옴.
+우리가 질리기 전까지 장난감 노릇 확실히 할 암캐 구함.
+
+[ 선호 상대 ]
+• 열심히 도망치는 년
+
+[ 비선호 상대 ]
+• 감정적인 교류나 사랑, 존중 같은 헛소리 지껄일 년`,
+    mainImage: 'https://i.postimg.cc/QdPy2vt6/37.jpg',
     gallery: [
-      'https://i.postimg.cc/Hsytbfzf/unw.jpg',
-      'https://i.postimg.cc/Hsytbfzf/unw.jpg',
-      'https://i.postimg.cc/Hsytbfzf/unw.jpg',
-      'https://i.postimg.cc/Hsytbfzf/unw.jpg'
+      'https://i.postimg.cc/QdPy2vt6/37.jpg',
+      'https://i.postimg.cc/pTQcnTZt/39.jpg',
+      'https://i.postimg.cc/8kHnp7c9/36.jpg',
+      'https://i.postimg.cc/bvk3KJ4S/40.jpg'
     ],
-    contactLink: '■언노운4번_콘택트링크■'
+    contactLink: 'https://share.crack.wrtn.ai/b6js6sc'
   },
   {
     id: 'u05',
